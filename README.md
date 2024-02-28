@@ -1,2 +1,3 @@
-# Landing-page
-CSS Exercise - The Odin Project "Landing Page"
+# Landing-page #The Odin Project
+CSS Exercise: Landing Page 'anime streaming webiste'
+
