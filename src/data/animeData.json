@@ -1,0 +1,570 @@
+{
+  "logoList": [
+    {
+      "src": "/carousal/logo/1-demon-slayer-logo.png",
+      "alt": "demon slayer logo"
+    },
+    {
+      "src": "/carousal/logo/2-ossan-adventurer-logo.png",
+      "alt": "ossan adventurer logo"
+    },
+    {
+      "src": "/carousal/logo/3-tower-of-god-logo.png",
+      "alt": "tower of god logo"
+    },
+    {
+      "src": "/carousal/logo/4-failure-frame-logo.png",
+      "alt": "failure frame logo"
+    }
+  ],
+  "coverList": [
+    {
+      "src": "/carousal/cover/1-demon-slayer-cover.jpg",
+      "srcMobile": "/carousal/cover/1-demon-slayer-cover-mobile.png",
+      "alt": "demon slayer cover"
+    },
+    {
+      "src": "/carousal/cover/2-ossan-adventurer-cover.jpeg",
+      "srcMobile": "/carousal/cover/2-ossan-adventurer-cover-mobile.png",
+      "alt": "ossan adventurer cover"
+    },
+    {
+      "src": "/carousal/cover/3-tower-of-god-cover.jpeg",
+      "srcMobile": "/carousal/cover/3-tower-of-god-cover-mobile.png",
+      "alt": "tower of god cover"
+    },
+    {
+      "src": "/carousal/cover/4-failure-frame-cover.jpeg",
+      "srcMobile": "/carousal/cover/4-failure-frame-cover-mobile.png",
+      "alt": "failure frame cover"
+    }
+  ],
+  "descriptionList": [
+    {
+      "description": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole..."
+    },
+    {
+      "description": "Normally, people choose to become adventurers in their teens. At 30 years old, Rick Gladiator bucks the trend by leaving his job as a guild clerk to become an adventurer. He begins as a novice..."
+    },
+    {
+      "description": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god. This is the story of the beginning and the end of..."
+    },
+    {
+      "description": "Touka always faded into the background at school. And when he’s summoned to another world with his classmates, that still doesn’t change! They all acquire top-rank skills, except Touka, who’s..."
+    }
+  ],
+  "episodeOneLink": [
+    {
+      "href": "https://anitaku.pe/kimetsu-no-yaiba-hashira-geiko-hen-dub-episode-1"
+    },
+    {
+      "href": "https://anitaku.pe/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-episode-1"
+    },
+    {
+      "href": "https://anitaku.pe/kami-no-tou-ouji-no-kikan-dub-episode-1"
+    },
+    {
+      "href": "https://anitaku.pe/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made-episode-1"
+    }
+  ],
+  "animeListJuly": [
+    {
+      "src": "/carousal/card/1-the_strongest_magician_in_the_demon_lord_s_army_was_a_human.png",
+      "alt": "The Strongest Magician in the Demon Lord's Army Was a Human",
+      "title": "The Strongest Magician in the Demon Lord's Army Was a Human",
+      "dubbed": true,
+      "rating": {
+        "number": 6.8,
+        "review": "Average"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 5,
+      "description": "Ike is a powerful magician and the leader of the Immortal Brigade, part of the Seventh Corps of the Demon Lord’s Army. He single-handedly conquers fortresses and pushes back the armies of humanity. Neither Dairokuten, the Demon Lord, nor Ike’s loyal soldiers know his darkest secret—he is a human in hiding! But can he keep his secret safe and bring peaceful coexistence to demons and humans?",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/maougun-saikyou-no-majutsushi-wa-ningen-datta"
+    },
+    {
+      "src": "/carousal/card/2-ya_sometimes_hides_her_feelings_in_russian.png",
+      "alt": "Alya Sometimes Hides Her Feelings in Russian",
+      "title": "Alya Sometimes Hides Her Feelings in Russian",
+      "dubbed": true,
+      "rating": {
+        "number": 7.2,
+        "review": "Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "Alya is a transfer student enjoying popularity at her new high school, often sporting a cold shoulder while earning high marks in class. She ignores her nerdy classmate, Kuze Masachika, except for when she blurts out a flirtatious line to him in Russian. Little does she know, Kuze understands Russian, though he pretends not to. Let’s see where this wacky love story takes them!",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san"
+    },
+    {
+      "src": "/carousal/card/3-pseudo_harem.png",
+      "alt": "Pseudo Harem",
+      "title": "Pseudo Harem",
+      "dubbed": false,
+      "rating": {
+        "number": 7.0,
+        "review": "Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "Eiji Kitahama joins the drama club with dreams of having a harem like the ones from his favorite manga. Rin Nanakura, an underclassman, finds herself crushing hard on Eiji, and tries on different personas in his presence to win him over. No matter how she acts, one thing is certain—her feelings for Eiji continue to grow stronger. Will she ever be able to tell him the truth and be herself?",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/giji-harem"
+    },
+    {
+      "src": "/carousal/card/4-senpai_is_an_otokonoko.png",
+      "alt": "Senpai is an Otokonoko",
+      "title": "Senpai is an Otokonoko",
+      "dubbed": false,
+      "rating": {
+        "number": 7.5,
+        "review": "Very Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "For Makoto Hanaoka, life’s about to get more complicated. Saki Aoi, a lively girl with loads of confidence, confesses her love for Makoto one day. When he fails to reciprocate, Saki declares she will be his first love! She shares her goal with a mutual friend, Ryuji Taiga, who also confesses his crush on Makoto. Stuck in a love triangle, Makoto must find a way to make it work and have fun.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/senpai-wa-otokonoko"
+    },
+    {
+      "src": "/carousal/card/5-failure_frame.png",
+      "alt": "Failure Frame I Became the Strongest and Annihilated Everything with Low-Level Spells",
+      "title": "Failure Frame I Became the Strongest and Annihilated Everything with Low-Level Spells",
+      "dubbed": false,
+      "rating": {
+        "number": 7.8,
+        "review": "Great"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "Touka always faded into the background at school. And when he’s summoned to another world with his classmates, that still doesn’t change! They all acquire top-rank skills, except Touka, who’s deemed a failure and cast to ancient ruins by the goddess Vicius. Turns out, his low-rank skills may not be so useless after all. Now, he seeks revenge against the goddess, and his true nature is revealed.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made"
+    },
+    {
+      "src": "/carousal/card/6-twilight_out_of_focus.png",
+      "alt": "Twilight Out of Focus",
+      "title": "Twilight Out of Focus",
+      "dubbed": false,
+      "rating": {
+        "number": 7.4,
+        "review": "Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "A boys’ school film club is the backdrop for three tales of new romance. Mao and Hisashi pair up for a project, make three promises, and draw closer together in the process. The club president, Jin, and a jealous junior named Giichi clash before finding common ground. Shion, a first-year student, joins the film club in search of a boyfriend and butts heads with Rei—until Rei asks him on a date.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/tasogare-out-focus"
+    },
+    {
+      "src": "/carousal/card/7-quality_assurance_in_another_world.png",
+      "alt": "Quality Assurance in Another World",
+      "title": "Quality Assurance in Another World",
+      "dubbed": false,
+      "rating": {
+        "number": 7.1,
+        "review": "Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "When a dragon attacks a peaceful village, it’s not the beast that perplexes resident Nikola, but the man who comes to their aid. Haga, member of a secret royal team of investigators, intrigues her with his eccentric ways. It may be due to the fact he’s a real-life QA debugger and this world is a VR game! With Haga by her side, Nikola’s inspired to venture out and learn her world’s true nature.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/kono-sekai-wa-fukanzen-sugiru"
+    },
+    {
+      "src": "/carousal/card/8-the_elusive_samurai.png",
+      "alt": "The Elusive Samurai",
+      "title": "The Elusive Samurai",
+      "dubbed": false,
+      "rating": {
+        "number": 7.3,
+        "review": "Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "In the year 1333, the Kamakura shogunate government comes crumbling down. A trusted vassal, Ashikaga Takauji, betrays the shogunate and organizes a rebellion. Hojo Tokiyuki, the rightful heir, escapes the massacre with a Shinto priest named Suwa Yorishige to Kamakura. On the run and fighting to stay alive, Tokiyuki sets in motion his plan to reclaim his birthright.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/nige-jouzu-no-wakagimi"
+    },
+    {
+      "src": "/carousal/card/9-wistoria_wand_and_sword.png",
+      "alt": "Wistoria Wand and Sword",
+      "title": "Wistoria Wand and Sword",
+      "dubbed": false,
+      "rating": {
+        "number": 7.0,
+        "review": "Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "In a world where magic reigns, Will Serfort can’t cast a spell. Though hardworking, Will’s classmates think less of him for it. However, he has a secret strength: his sword. Can Will defy expectations with muscle over magic and blade over wand? Find out in this epic sword-and-sorcery adventure!",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/tsue-to-tsurugi-no-wistoria"
+    },
+    {
+      "src": "/carousal/card/10-vtuber_legend_how_i_went_viral_after_forgetting_to_turn_off_my_stream.png",
+      "alt": "VTuber Legend How I Went Viral after Forgetting to Turn Off My Stream",
+      "title": "VTuber Legend How I Went Viral after Forgetting to Turn Off My Stream",
+      "dubbed": false,
+      "rating": {
+        "number": 7.9,
+        "review": "Great"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 12,
+      "description": "Yuki Tanaka is a VTuber at Live-On, one of Japan’s largest VTuber companies, as the polite and ladylike Awayuki Kokorone. One day, she forgets to end the stream, and viewers see her real personality—irreverent, improper, and prone to imbibing after a long day. Yuki is surprised to find that her accident caused her rankings to multiply, so she doubles down and gets to work. She’ll be a star yet!",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta"
+    },
+    {
+      "src": "/carousal/card/11-a_journey_through_another_world_raising_kids_while_adventuring.png",
+      "alt": "A Journey Through Another World Raising Kids While Adventuring",
+      "title": "A Journey Through Another World Raising Kids While Adventuring",
+      "dubbed": false,
+      "rating": {
+        "number": 7.5,
+        "review": "Very Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 5,
+      "description": "After a god accidentally slays him, Takumi’s reborn with new skills in a monster-filled forest where he stumbles upon twins. They’re sweet, adorable, and super strong! Won over instantly, he names them Alan and Elena, becomes their guardian, and joins an adventurers’ guild to provide for his new family. And so starts his chill life of adventure, watching over Alan and Elena’s growth!",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
+    },
+    {
+      "src": "/carousal/card/12-mayonaka_punch.png",
+      "alt": "MAYONAKA PUNCH",
+      "title": "MAYONAKA PUNCH",
+      "dubbed": false,
+      "rating": {
+        "number": 6.9,
+        "review": "Average"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "Meet Masaki, the now former member of the popular NewTuber group, Harikiri Sisters. After a career setback, aka getting fired unexpectedly via a livestream, she joins forces with Live, a partner with superhuman abilities. Together, they aim to create sensational content and reach 1 million subscribers. Will they reach their content dreams or be hit with the block button?",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/mayonaka-punch"
+    },
+    {
+      "src": "/carousal/card/13-no_longer_allowed_in_another_world.png",
+      "alt": "No Longer Allowed in Another World",
+      "title": "No Longer Allowed in Another World",
+      "dubbed": false,
+      "rating": {
+        "number": 7.0,
+        "review": "Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "Pulled into an otherworldly adventure with cute sidekicks and superpowers, you’d think Osamu hit the jackpot. Nope! From a time before pixels, the early 20th-century gloomy author just wants to find a quiet place to meet his maker, not to rack up XP. Sadly, his poetic demise is constantly thwarted by inconvenient heroics. Dive into the hilariously tragic life of the most reluctant hero!",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/isekai-shikkaku"
+    },
+    {
+      "src": "/carousal/card/14-love_is_indivisible_by_twins.png",
+      "alt": "Love Is Indivisible by Twins",
+      "title": "Love Is Indivisible by Twins",
+      "dubbed": false,
+      "rating": {
+        "number": 7.3,
+        "review": "Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 4,
+      "description": "Jun Shirosaki’s love life takes a wild turn when he finds himself caught between the Jinguji twins—his childhood friends who are as different as night and day. Rumi, the older sister, pairs a boyish charm with a maiden’s heart, while Naori combines girlish looks with her deep love for otaku culture. As feelings grow and confusion mounts, Jun must navigate this unexpected love triangle next door.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/koi-wa-futago-de-warikirenai"
+    }
+  ],
+  "animeMovies": [
+    {
+      "src": "/carousal/card/1-hotarubi_no_mori_e.jpg",
+      "alt": "Hotarubi no Mori e",
+      "title": "Hotarubi no Mori e",
+      "dubbed": true,
+      "rating": {
+        "number": "8.0/10",
+        "review": "Best"
+      },
+      "isMovie": true,
+      "seasonsNum": 1,
+      "episodesNum": 1,
+      "description": "The story of Hotarubi no Mori e centers around Hotaru, a little girl who gets lost in an enchanted forest where apparitions reside. A young boy, Gin, appears before Hotaru, but she cannot touch him for fear of making him disappear.",
+      "animeStatus": "Movie",
+      "href": "https://anitaku.pe/category/hotarubi-no-mori-e-2011",
+      "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtert9AdrefsdsdfwerFrefdsfrersfdsrfer363435342a2ViZGoxZjA2LmFuZjU5OC5jb20vdXNlcjEzNDIvZWQ2ZjFlM2YzYTI0ZDUwZjc2MDU1NTNlYjQyMDc0ZGYvRVAuMS52MC4xNjM5MjE5NzAwLjcyMHAubXA0P3Rva2VuPTd1T1JMcFljVTJtTFpKcGdaS2dfRFEmZXhwaXJlcz0xNzIyNDg0MDI0JmlkPTQyODU4"
+    },
+    {
+      "src": "/carousal/card/2-tonari_no_totoro.jpg",
+      "alt": "Tonari no Totoro",
+      "title": "Tonari no Totoro",
+      "dubbed": true,
+      "rating": {
+        "number": "8.2/10",
+        "review": "Best"
+      },
+      "isMovie": true,
+      "seasonsNum": 1,
+      "episodesNum": 1,
+      "description": "Follow the adventures of Satsuki and her four-year-old sister Mei when they move into a new home in the countryside. To their delight they discover that their new neighbor is a mysterious forest spirit called Totoro who can be seen only through the eyes of a child. Totoro introduces them to extraordinary characters, including a cat that doubles as a bus, takes them on a journey through the wonders of nature.",
+      "animeStatus": "Movie",
+      "href": "https://anitaku.pe/category/tonari-no-totoro-dub",
+      "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAdrefsdsdfwerFrefdsfrersfdsrfer363435349URASDGHUSRFSJGYfdsffsderFStewthsfSFtrftesdfrdGk4bzh4ODV3LmFuZjU5OC5jb20vdXNlcjEzNDIvMDE5ZjFkZTBhMjk1ZDZlOWQ5MTU1NDJjNGE5ODQwZTYvRVAuMS52MC4xNjM5NTM3NTY2LjEwODBwLm1wND90b2tlbj1wZ0FPaWNzY1BEbUNmY2ZyNDN2bXh3JmV4cGlyZXM9MTcyMjQ4NDA3MSZpZD0xNjQzNTI="
+    },
+    {
+      "src": "/carousal/card/3-mononoke_hime.jpg",
+      "alt": "Mononoke Hime",
+      "title": "Mononoke Hime",
+      "dubbed": true,
+      "rating": {
+        "number": "8.6/10",
+        "review": "Best"
+      },
+      "isMovie": true,
+      "seasonsNum": 1,
+      "episodesNum": 1,
+      "description": "A calm village residing in the mountains comes under attack from a demon-possessed boar one day. Ashitaka, a young man and prince of the tribe, engages the creature in an attempt to save his village. During the battle, the boar bites him on the arm, leaving it blackened and cursed. Following his village's traditions, Ashitaka is exiled and becomes a wanderer, looking for a solution to the curse before it engulfs him. Iron Town is a fortress under the leadership of Lady Eboshi. Through the clearing of the surrounding forests, Iron Town produces large amounts of Ironsand, used for gunpowder and other machinery. However, because of the forests destruction, nearby animal clans seek revenge led by a human girl of the Wolf clan called San. When Ashitaka comes to Iron Town, he discovers the area consumed in battle. Horrified, he attempts to create peace and befriend the Wolf Clan. However, after the forest's eradication and the ongoing war between Human and Beast, will the Spirit of the Forest be forgiving and accept Ashitaka's request to expel his curse?",
+      "animeStatus": "Movie",
+      "href": "https://anitaku.pe/category/mononoke-hime-dub",
+      "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtert8AdrefsdsdfwerFrefdsfrersfdsrfer363435340ZG50eWMybWYwLmFuZjU5OC5jb20vdXNlcjEzNDIvNjQzMGNlNjJmZWNiN2I5MmE1NjQ2NzQ2OGQ5MzAyY2IvRVAuMS52MS4xNjM5NjcyOTYwLjEwODBwLm1wND90b2tlbj0wLUxaOExwRDdTeFI5c3owcGthY3VRJmV4cGlyZXM9MTcyMjQ4NDA4OSZpZD05NjA2OQ=="
+    },
+    {
+      "src": "/carousal/card/4-kimi_no_na_wa.jpg",
+      "alt": "Kimi no Na wa",
+      "title": "Kimi no Na wa",
+      "dubbed": true,
+      "rating": {
+        "number": "8.9/10",
+        "review": "Best"
+      },
+      "isMovie": true,
+      "seasonsNum": 1,
+      "episodesNum": 1,
+      "description": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture. One day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another. Kimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.",
+      "animeStatus": "Movie",
+      "href": "https://anitaku.pe/category/kimi-no-na-wa-dub",
+      "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtert9AdrefsdsdfwerFrefdsfrersfdsrfer363435341cGNleWlhc2p1LmFuZjU5OC5jb20vdXNlcjEzNDIvZTllMzE1ZGMxMjM3NTk3NWMzODMzODRmN2JjNzI4ZDgvRVAuMS52MS4xNzEyODE2OTk1LjcyMHAubXA0P3Rva2VuPXdPT3IweVU1bEZXM21WY1F6MF8yTFEmZXhwaXJlcz0xNzIyNDg0MTI1JmlkPTEzMjE1NQ=="
+    },
+    {
+      "src": "/carousal/card/5-tenki_no_ko.jpg",
+      "alt": "Tenki no Ko",
+      "title": "Tenki no Ko",
+      "dubbed": true,
+      "rating": {
+        "number": "7.9/10",
+        "review": "Best"
+      },
+      "isMovie": true,
+      "seasonsNum": 1,
+      "episodesNum": 1,
+      "description": "Tokyo is currently experiencing rain showers that seem to disrupt the usual pace of everyone living there to no end. Amidst this seemingly eternal downpour arrives the runaway high school student Hodaka Morishima, who struggles to financially support himself—ending up with a job at a small-time publisher. At the same time, the orphaned Hina Amano also strives to find work to sustain herself and her younger brother. Both fates intertwine when Hodaka attempts to rescue Hina from shady men, deciding to run away together. Subsequently, Hodaka discovers that Hina has a strange yet astounding power: the ability to call out the sun whenever she prays for it. With Tokyo's unusual weather in mind, Hodaka sees the potential of this ability. He suggests that Hina should become a 'sunshine girl'—someone who will clear the sky for people when they need it the most. Things begin looking up for them at first. However, it is common knowledge that power always comes with a hefty price...",
+      "animeStatus": "Movie",
+      "href": "https://anitaku.pe/category/tenki-no-ko-dub",
+      "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyURASDGHUSRFSJGYfdsffsderFStewthsfSFtrfteAdrefsdsdfwerFrefdsfrersfdsrfer36343534sdf82eGM1cHBlOWVpLmFuZjU5OC5jb20vdXNlcjEzNDIvZDI1YTBiNzIxMmRmMDgyY2FiNGExNmYwZjA4ZjEyZjQvRVAuMS52MC4xNjM5MjkxMzY1LjcyMHAubXA0P3Rva2VuPTNrZmFlUV93X0U0OVhBYXAtMGlZdXcmZXhwaXJlcz0xNzIyNDg0MTU2JmlkPTE0MzI1OA=="
+    },
+    {
+      "src": "/carousal/card/6-spirited_away.jpg",
+      "alt": "Spirited Away",
+      "title": "Spirited Away",
+      "dubbed": true,
+      "rating": {
+        "number": "8.6/10",
+        "review": "Best"
+      },
+      "isMovie": true,
+      "seasonsNum": 1,
+      "episodesNum": 1,
+      "description": "Stubborn, spoiled, and naïve, 10-year-old Chihiro Ogino is less than pleased when she and her parents discover an abandoned amusement park on the way to their new house. Cautiously venturing inside, she realizes that there is more to this place than meets the eye, as strange things begin to happen once dusk falls. Ghostly apparitions and food that turns her parents into pigs are just the start—Chihiro has unwittingly crossed over into the spirit world. Now trapped, she must summon the courage to live and work amongst spirits, with the help of the enigmatic Haku and the cast of unique characters she meets along the way. Vivid and intriguing, Sen to Chihiro no Kamikakushi tells the story of Chihiro's journey through an unfamiliar world as she strives to save her parents and return home.",
+      "animeStatus": "Movie",
+      "href": "https://anitaku.pe/category/spirited-away-dub",
+      "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAdrefsdsdfwerFrefdsfrersfdsrfer363435349AawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtertxZXc2eG8zN2JmLmFuZjU5OC5jb20vdXNlcjEzNDIvNGEyNjE1NGI4YWFmZGFkZjFkZWJjY2IzNzEwMjIxNTQvRVAuMS52MC4xNjM5Mjk5MTQ3LjEwODBwLm1wND90b2tlbj03SkN5eDllSVBRZFFBWUdOMmtVODBRJmV4cGlyZXM9MTcyMjQ4NDE3NyZpZD05MDYxMQ=="
+    },
+    {
+      "src": "/carousal/card/7-howls_moving_castle.jpg",
+      "alt": "Howl's Moving Castle",
+      "title": "Howl's Moving Castle",
+      "dubbed": true,
+      "rating": {
+        "number": "8.2/10",
+        "review": "Best"
+      },
+      "isMovie": true,
+      "seasonsNum": 1,
+      "episodesNum": 1,
+      "description": "That jumbled piece of architecture, that cacophony of hissing steam and creaking joints, with smoke billowing from it as it moves on its own... That castle is home to the magnificent wizard Howl, infamous for both his magical prowess and for being a womanizer—or so the rumor goes in Sophie Hatter's small town. Sophie, as the plain daughter of a hatmaker, does not expect much from her future and is content with working hard in the shop. However, Sophie's simple life takes a turn for the exciting when she is ensnared in a disturbing situation, and the mysterious wizard appears to rescue her. Unfortunately, this encounter, brief as it may be, spurs the vain and vengeful Witch of the Waste—in a fit of jealousy caused by a past discord with Howl—to put a curse on the maiden, turning her into an old woman. In an endeavor to return to normal, Sophie must accompany Howl and a myriad of eccentric companions—ranging from a powerful fire demon to a hopping scarecrow—in his living castle, on a dangerous adventure as a raging war tears their kingdom apart.",
+      "animeStatus": "Movie",
+      "href": "https://anitaku.pe/category/howls-moving-castle-dub",
+      "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAdrefsdsdfwerFrefdsfrersfdsrfer363435349AdeqwrwedffryretgsdFrsftrsvfsfsr1cGNleWlhc2p1LmFuZjU5OC5jb20vdXNlcjEzNDIvZjY2OTIxMTNjNzc3MDQ1M2Q5MDg4Nzc3MGNhNzlhYTUvRVAuMS52MS4xNzEyNzEwMjk1LjcyMHAubXA0P3Rva2VuPXpwbWRRb1NoaTFBanZvWmlHVlcyY3cmZXhwaXJlcz0xNzIyNDg0MTk5JmlkPTEwNzAxNQ=="
+    },
+    {
+      "src": "/carousal/card/8-grave_of_the_fireflies.jpg",
+      "alt": "Grave of the Fireflies",
+      "title": "Grave of the Fireflies",
+      "dubbed": true,
+      "rating": {
+        "number": "8.5/10",
+        "review": "Best"
+      },
+      "isMovie": true,
+      "seasonsNum": 1,
+      "episodesNum": 1,
+      "description": "As World War II reaches its conclusion in 1945, Japan faces widespread destruction in the form of American bombings, devastating city after city. Hotaru no Haka, also known as Grave of the Fireflies, is the story of Seita and his sister Setsuko, two Japanese children whose lives are ravaged by the brutal war. They have lost their mother, their father, their home, and the prospect of a bright future—all tragic consequences of the war. Now orphaned and homeless, Seita and Setsuko have no choice but to drift across the countryside, beset by starvation and disease. Met with the apathy of adults along the way, they find that desperate circumstances can turn even the kindest of people cruel yet their youthful hope shines brightly in the face of unrelenting hardship, preventing the siblings from swiftly succumbing to an inevitable fate.",
+      "animeStatus": "Movie",
+      "href": "https://anitaku.pe/category/grave-of-the-fireflies-dub",
+      "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAdeqwrwedffryretgsdFrsftrsvfsfsr9scDVhMDAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtertU2NWI2LmFuZjU5OC5jb20vdXNlcjEzNDIvYzRkMjA0NWNjMWViYzM5ZjFkYzEwNmIwYzdjYWE3NWUvRVAuMS52MS4xNjM5NjI3MzM2LjEwODBwLm1wND90b2tlbj1RM3lyTm1Kbjlndmh3OVVKeUotTFFBJmV4cGlyZXM9MTcyMjQ4NDIyMCZpZD0xMDcxODY="
+    }
+  ],
+  "favouriteAnime": [
+    {
+      "src": "/carousal/card/1-hxh.jpg",
+      "alt": "Hunter x Hunter",
+      "title": "Hunter x Hunter",
+      "dubbed": true,
+      "rating": {
+        "number": 9.0,
+        "review": "Excellent"
+      },
+      "seasonsNum": 6,
+      "episodesNum": 148,
+      "description": "Hunters are specialized in a wide variety of fields, ranging from treasure hunting to cooking. They have access to otherwise unavailable funds and information that allow them to pursue their dreams and interests. However, being a hunter is a special privilege, only attained by taking a deadly exam with an extremely low success rate. Gon Freecss, a 12-year-old boy with the hope of finding his missing father, sets out on a quest to take the Hunter Exam. Along the way, he picks up three companions who also aim to take the dangerous test: the revenge-seeking Kurapika, aspiring doctor Leorio Paladiknight, and a mischievous child the same age as Gon, Killua Zoldyck. Hunter x Hunter is a classic shounen that follows the story of four aspiring hunters as they embark on a perilous adventure, fighting for their dreams while defying the odds.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/hunter-x-hunter-dub"
+    },
+    {
+      "src": "/carousal/card/2-demon_slayer.jpg",
+      "alt": "Demon Slayer: Kimetsu no Yaiba",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "dubbed": true,
+      "rating": {
+        "number": 8.7,
+        "review": "Great"
+      },
+      "seasonsNum": 2,
+      "episodesNum": 26,
+      "description": "Ever since the death of his father, the burden of supporting the family has fallen upon Tanjirou Kamado's shoulders. Though living impoverished on a remote mountain, the Kamado family are able to enjoy a relatively peaceful and happy life. One day, Tanjirou decides to go down to the local village to make a little money selling charcoal. On his way back, night falls, forcing Tanjirou to take shelter in the house of a strange man, who warns him of the existence of flesh-eating demons that lurk in the woods at night. When he finally arrives back home the next day, he is met with a horrifying sight—his whole family has been slaughtered. Worse still, the sole survivor is his sister Nezuko, who has been turned into a bloodthirsty demon. Consumed by rage and hatred, Tanjirou swears to avenge his family and stay by his only remaining sibling. Alongside the mysterious group calling themselves the Demon Slayer Corps, Tanjirou will do whatever it takes to slay the demons and protect the remnants of his beloved sister's humanity.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/kimetsu-no-yaiba-dub"
+    },
+    {
+      "src": "/carousal/card/3-slime.jpg",
+      "alt": "That Time I Got Reincarnated as a Slime",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "dubbed": true,
+      "rating": {
+        "number": 8.0,
+        "review": "Good"
+      },
+      "seasonsNum": 3,
+      "episodesNum": 48,
+      "description": "\"Rimuru Tempest\" is the new name of a slime in a fantasy world taken by a former 37-year-old human Satoru Mikami after he is killed by a passing robber. Broken free from ordinary, stale past life, his fresh adventure in a fantasy world as a slime monster with unique abilities begins.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/tensei-shitara-slime-datta-ken-dub"
+    },
+    {
+      "src": "/carousal/card/4-death_note.jpg",
+      "alt": "Death Note",
+      "title": "Death Note",
+      "dubbed": true,
+      "rating": {
+        "number": 9.1,
+        "review": "Excellent"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 37,
+      "description": "Yagami Light is a 17-year-old genius from Japan who is tired of his life, school, and the state of the world as he knows it. One day, on the way home from class, Light stumbles upon a dark notebook with 'Death Note' written on the front. Intrigued by its appearance, Light reads the first few sentences, only to find out that it states that anyone whose name is written inside will die. Discarding it as a joke, Light continues his daily activities. Soon after though, his human curiosity takes the better of him and prompts Light to try the notebook, discovering the truth behind first sentence. Now, with power in his hands, Yagami Light is on a quest to change the world and become God of the New World. His path to holy status won't be easy however, as another genius, known as L, is working against Light's beliefs and Light himself. Who will win this power of Gods between humans?",
+      "animeStatus": "Completed",
+      "href": "https://anitaku.pe/category/death-note-dub"
+    },
+    {
+      "src": "/carousal/card/5-baki.jpg",
+      "alt": "Baki",
+      "title": "Baki",
+      "dubbed": true,
+      "rating": {
+        "number": 7.9,
+        "review": "Good"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 26,
+      "description": "The protagonist, Baki Hanma, trains with an intense focus to become strong enough to surpass his father, Yujiro Hanma, the strongest fighter in the world. Five of the world's most violent and brutal death row inmates are gathering to face Baki. Their objective is to taste defeat -- their unmatched strength and skill have led them to grow bored of life itself, and they now seek out Baki in the hopes that he can overwhelm and utterly crush them. In this crisis, other underground martial art warriors gather to fight by Baki's side: Kaoru Hanayama, Gouki Shibukawa, Retsu Kaioh, and Doppo Orochi. An epic showdown between violent death row inmates and Baki and his friends begins!",
+      "animeStatus": "Completed",
+      "href": "https://anitaku.pe/category/baki-2018-dub"
+    },
+    {
+      "src": "/carousal/card/6-kengan_asura.jpg",
+      "alt": "Kengan Ashura",
+      "title": "Kengan Ashura",
+      "dubbed": true,
+      "rating": {
+        "number": 7.8,
+        "review": "Good"
+      },
+      "seasonsNum": 2,
+      "episodesNum": 24,
+      "description": "Since the Edo periods of Japan, gladiator arenas exist in certain areas. In these arenas, wealthy business owners and merchants hire gladiators to fight in unarmed combat where winner takes all. Toki Taouma, nicknamed 'Ashura,' joins these arenas and devastates his opponents. His spectacular ability to crush his enemies catches the attention of the big business owners, including the Nogi Group chairman, Nogi Hideki.",
+      "animeStatus": "Completed",
+      "href": "https://anitaku.pe/category/kengan-ashura-dub"
+    },
+    {
+      "src": "/carousal/card/7-one_piece.jpg",
+      "alt": "One Piece",
+      "title": "One Piece",
+      "dubbed": true,
+      "rating": {
+        "number": 9.2,
+        "review": "Excellent"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 1074,
+      "description": "Gol D. Roger was known as the 'Pirate King,' the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King. Enter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy’s reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/one-piece-dub"
+    },
+    {
+      "src": "/carousal/card/8-kaiju_no_8.jpg",
+      "alt": "Kaiju No. 8",
+      "title": "Kaiju No. 8",
+      "dubbed": true,
+      "rating": {
+        "number": 8.3,
+        "review": "Great"
+      },
+      "seasonsNum": 1,
+      "episodesNum": 12,
+      "description": "Grotesque, Godzilla-like monsters called 'kaijuu' have been appearing around Japan for many years. To combat these beasts, an elite military unit known as the Defense Corps risks their lives daily to protect civilians. Once a creature is killed, 'sweepers'—working under the Professional Kaijuu Cleaner Corporation—are left to dispose of its remains. Kafka Hibino, a 32-year-old man, is unsatisfied with his job as a sweeper. From a young age, he has aspired to join the Defense Corps and kill kaijuus for a living. After a few failed attempts, however, he gave up on his dreams and resigned himself to the mediocrity that provided a decent paycheck. Nevertheless, when an ambitious, 18-year-old recruit named Leno Ichikawa joins his cleaning team, Kafka is once again reminded of his desire to join the military. Following a chain of unfortunate events and an interaction with the junior sweeper, Kafka encounters a parasite-type kaijuu that forces its way in through his mouth—turning him into a humanoid monster. With his newfound powers, Kafka aims to give his lifelong dream a final try.",
+      "animeStatus": "On Going",
+      "href": "https://anitaku.pe/category/kaijuu-8-gou-dub"
+    }
+  ],
+  "bannerAnime": [
+   {
+    "src": "/carousal/cover/vinland-saga.jpg",
+    "alt": "vinland Saga Season 2",
+    "href": "https://anitaku.pe/category/vinland-saga-season-2-dub"
+  }, 
+   {
+    "src": "/carousal/cover/solo-leveling.jpg",
+    "alt": "Solo Leveling",
+    "href": "https://anitaku.pe/category/ore-dake-level-up-na-ken-dub"
+  }, 
+   {
+    "src": "/carousal/cover/black-clover.jpg",
+    "alt": "Black Clover",
+    "href": "https://anitaku.pe/category/black-clover-tv-dub"
+  }, 
+   {
+    "src": "/carousal/cover/attack-on-titans.jpg",
+    "alt": "Attack on Titans",
+    "href": "https://anitaku.pe/category/shingeki-no-kyojin-dub"
+  }, 
+   {
+    "src": "/carousal/cover/demon-slayer-infinity-castle.jpg",
+    "alt": "Demon Slayer: Infinity Castle Arc",
+    "description": "The Infinity Castle arc sees the Demon Slayer Corps launch a final assault on Muzan Kibutsuji's shape-shifting fortress. Intense battles unfold as heroes face powerful Upper Rank demons, risking everything to end the demon threat.",
+    "href": "https://anitaku.pe/category/shingeki-no-kyojin-dub"
+  } 
+]
+}
