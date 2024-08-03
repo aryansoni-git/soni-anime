@@ -28,7 +28,7 @@ export default function Banner({ anime, isLast }) {
                 (<div className="flex flex-col gap-5 items-center my-12 relative cursor-default">
                     <div>
                         <Image
-                            src={`/sleeping-cats.png`}
+                            src={`./sleeping-cats.png`}
                             alt="Sleeping Cats"
                             height={500}
                             width={500}

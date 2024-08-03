@@ -20,22 +20,22 @@ export default function HoveredAnimeCard({ anime = {}, isHovered }) {
         (
             <Link href={anime.href} target="_blank" rel="noopener" className={hoveredStyles}>
                 <h4 className="font-semibold">{anime.title}</h4>
-                <span className="flex gap-2">{anime.rating.number}<Icon src={`/icons/star.svg`} alt={`rating star`} addClassName={`h-[20px] w-[20px]`} />{anime.rating.review}</span>
+                <span className="flex gap-2">{anime.rating.number}<Icon src={`./icons/star.svg`} alt={`rating star`} addClassName={`h-[20px] w-[20px]`} />{anime.rating.review}</span>
                 <span className="text-slate-200">{anime.seasonsNum} Season</span>
                 <span className="text-slate-200">{anime.episodesNum} Episodes</span>
                 <span>Status: {anime.animeStatus}</span>
                 <p>{textShortner(anime.description)}</p>
                 <div className="flex gap-5 h-full">
                     <Icon
-                        src={`/icons/play-2.svg`}
+                        src={`./icons/play-2.svg`}
                         alt={`play icon`}
                         addClassName={`hover:scale-110`} />
                     <Icon
-                        src={`/icons/tag.svg`}
+                        src={`./icons/tag.svg`}
                         alt={`tag icon`}
                         addClassName={`hover:scale-110`} />
                     <Icon
-                        src={`/icons/heart.svg`}
+                        src={`./icons/heart.svg`}
                         alt={`like icon`}
                         addClassName={`hover:scale-110`} />
                 </div>

@@ -1,41 +1,41 @@
 {
   "logoList": [
     {
-      "src": "/carousal/logo/1-demon-slayer-logo.png",
+      "src": "./carousal/logo/1-demon-slayer-logo.png",
       "alt": "demon slayer logo"
     },
     {
-      "src": "/carousal/logo/2-ossan-adventurer-logo.png",
+      "src": "./carousal/logo/2-ossan-adventurer-logo.png",
       "alt": "ossan adventurer logo"
     },
     {
-      "src": "/carousal/logo/3-tower-of-god-logo.png",
+      "src": "./carousal/logo/3-tower-of-god-logo.png",
       "alt": "tower of god logo"
     },
     {
-      "src": "/carousal/logo/4-failure-frame-logo.png",
+      "src": "./carousal/logo/4-failure-frame-logo.png",
       "alt": "failure frame logo"
     }
   ],
   "coverList": [
     {
-      "src": "/carousal/cover/1-demon-slayer-cover.jpg",
-      "srcMobile": "/carousal/cover/1-demon-slayer-cover-mobile.png",
+      "src": "./carousal/cover/1-demon-slayer-cover.jpg",
+      "srcMobile": "./carousal/cover/1-demon-slayer-cover-mobile.png",
       "alt": "demon slayer cover"
     },
     {
-      "src": "/carousal/cover/2-ossan-adventurer-cover.jpeg",
-      "srcMobile": "/carousal/cover/2-ossan-adventurer-cover-mobile.png",
+      "src": "./carousal/cover/2-ossan-adventurer-cover.jpeg",
+      "srcMobile": "./carousal/cover/2-ossan-adventurer-cover-mobile.png",
       "alt": "ossan adventurer cover"
     },
     {
-      "src": "/carousal/cover/3-tower-of-god-cover.jpeg",
-      "srcMobile": "/carousal/cover/3-tower-of-god-cover-mobile.png",
+      "src": "./carousal/cover/3-tower-of-god-cover.jpeg",
+      "srcMobile": "./carousal/cover/3-tower-of-god-cover-mobile.png",
       "alt": "tower of god cover"
     },
     {
-      "src": "/carousal/cover/4-failure-frame-cover.jpeg",
-      "srcMobile": "/carousal/cover/4-failure-frame-cover-mobile.png",
+      "src": "./carousal/cover/4-failure-frame-cover.jpeg",
+      "srcMobile": "./carousal/cover/4-failure-frame-cover-mobile.png",
       "alt": "failure frame cover"
     }
   ],
@@ -69,7 +69,7 @@
   ],
   "animeListJuly": [
     {
-      "src": "/carousal/card/1-the_strongest_magician_in_the_demon_lord_s_army_was_a_human.png",
+      "src": "./carousal/card/1-the_strongest_magician_in_the_demon_lord_s_army_was_a_human.png",
       "alt": "The Strongest Magician in the Demon Lord's Army Was a Human",
       "title": "The Strongest Magician in the Demon Lord's Army Was a Human",
       "dubbed": true,
@@ -84,7 +84,7 @@
       "href": "https://anitaku.pe/category/maougun-saikyou-no-majutsushi-wa-ningen-datta"
     },
     {
-      "src": "/carousal/card/2-ya_sometimes_hides_her_feelings_in_russian.png",
+      "src": "./carousal/card/2-ya_sometimes_hides_her_feelings_in_russian.png",
       "alt": "Alya Sometimes Hides Her Feelings in Russian",
       "title": "Alya Sometimes Hides Her Feelings in Russian",
       "dubbed": true,
@@ -99,7 +99,7 @@
       "href": "https://anitaku.pe/category/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san"
     },
     {
-      "src": "/carousal/card/3-pseudo_harem.png",
+      "src": "./carousal/card/3-pseudo_harem.png",
       "alt": "Pseudo Harem",
       "title": "Pseudo Harem",
       "dubbed": false,
@@ -114,7 +114,7 @@
       "href": "https://anitaku.pe/category/giji-harem"
     },
     {
-      "src": "/carousal/card/4-senpai_is_an_otokonoko.png",
+      "src": "./carousal/card/4-senpai_is_an_otokonoko.png",
       "alt": "Senpai is an Otokonoko",
       "title": "Senpai is an Otokonoko",
       "dubbed": false,
@@ -129,7 +129,7 @@
       "href": "https://anitaku.pe/category/senpai-wa-otokonoko"
     },
     {
-      "src": "/carousal/card/5-failure_frame.png",
+      "src": "./carousal/card/5-failure_frame.png",
       "alt": "Failure Frame I Became the Strongest and Annihilated Everything with Low-Level Spells",
       "title": "Failure Frame I Became the Strongest and Annihilated Everything with Low-Level Spells",
       "dubbed": false,
@@ -144,7 +144,7 @@
       "href": "https://anitaku.pe/category/hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made"
     },
     {
-      "src": "/carousal/card/6-twilight_out_of_focus.png",
+      "src": "./carousal/card/6-twilight_out_of_focus.png",
       "alt": "Twilight Out of Focus",
       "title": "Twilight Out of Focus",
       "dubbed": false,
@@ -159,7 +159,7 @@
       "href": "https://anitaku.pe/category/tasogare-out-focus"
     },
     {
-      "src": "/carousal/card/7-quality_assurance_in_another_world.png",
+      "src": "./carousal/card/7-quality_assurance_in_another_world.png",
       "alt": "Quality Assurance in Another World",
       "title": "Quality Assurance in Another World",
       "dubbed": false,
@@ -174,7 +174,7 @@
       "href": "https://anitaku.pe/category/kono-sekai-wa-fukanzen-sugiru"
     },
     {
-      "src": "/carousal/card/8-the_elusive_samurai.png",
+      "src": "./carousal/card/8-the_elusive_samurai.png",
       "alt": "The Elusive Samurai",
       "title": "The Elusive Samurai",
       "dubbed": false,
@@ -189,7 +189,7 @@
       "href": "https://anitaku.pe/category/nige-jouzu-no-wakagimi"
     },
     {
-      "src": "/carousal/card/9-wistoria_wand_and_sword.png",
+      "src": "./carousal/card/9-wistoria_wand_and_sword.png",
       "alt": "Wistoria Wand and Sword",
       "title": "Wistoria Wand and Sword",
       "dubbed": false,
@@ -204,7 +204,7 @@
       "href": "https://anitaku.pe/category/tsue-to-tsurugi-no-wistoria"
     },
     {
-      "src": "/carousal/card/10-vtuber_legend_how_i_went_viral_after_forgetting_to_turn_off_my_stream.png",
+      "src": "./carousal/card/10-vtuber_legend_how_i_went_viral_after_forgetting_to_turn_off_my_stream.png",
       "alt": "VTuber Legend How I Went Viral after Forgetting to Turn Off My Stream",
       "title": "VTuber Legend How I Went Viral after Forgetting to Turn Off My Stream",
       "dubbed": false,
@@ -219,7 +219,7 @@
       "href": "https://anitaku.pe/category/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta"
     },
     {
-      "src": "/carousal/card/11-a_journey_through_another_world_raising_kids_while_adventuring.png",
+      "src": "./carousal/card/11-a_journey_through_another_world_raising_kids_while_adventuring.png",
       "alt": "A Journey Through Another World Raising Kids While Adventuring",
       "title": "A Journey Through Another World Raising Kids While Adventuring",
       "dubbed": false,
@@ -234,7 +234,7 @@
       "href": "https://anitaku.pe/category/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu"
     },
     {
-      "src": "/carousal/card/12-mayonaka_punch.png",
+      "src": "./carousal/card/12-mayonaka_punch.png",
       "alt": "MAYONAKA PUNCH",
       "title": "MAYONAKA PUNCH",
       "dubbed": false,
@@ -249,7 +249,7 @@
       "href": "https://anitaku.pe/category/mayonaka-punch"
     },
     {
-      "src": "/carousal/card/13-no_longer_allowed_in_another_world.png",
+      "src": "./carousal/card/13-no_longer_allowed_in_another_world.png",
       "alt": "No Longer Allowed in Another World",
       "title": "No Longer Allowed in Another World",
       "dubbed": false,
@@ -264,7 +264,7 @@
       "href": "https://anitaku.pe/category/isekai-shikkaku"
     },
     {
-      "src": "/carousal/card/14-love_is_indivisible_by_twins.png",
+      "src": "./carousal/card/14-love_is_indivisible_by_twins.png",
       "alt": "Love Is Indivisible by Twins",
       "title": "Love Is Indivisible by Twins",
       "dubbed": false,
@@ -281,7 +281,7 @@
   ],
   "animeMovies": [
     {
-      "src": "/carousal/card/1-hotarubi_no_mori_e.jpg",
+      "src": "./carousal/card/1-hotarubi_no_mori_e.jpg",
       "alt": "Hotarubi no Mori e",
       "title": "Hotarubi no Mori e",
       "dubbed": true,
@@ -298,7 +298,7 @@
       "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtert9AdrefsdsdfwerFrefdsfrersfdsrfer363435342a2ViZGoxZjA2LmFuZjU5OC5jb20vdXNlcjEzNDIvZWQ2ZjFlM2YzYTI0ZDUwZjc2MDU1NTNlYjQyMDc0ZGYvRVAuMS52MC4xNjM5MjE5NzAwLjcyMHAubXA0P3Rva2VuPTd1T1JMcFljVTJtTFpKcGdaS2dfRFEmZXhwaXJlcz0xNzIyNDg0MDI0JmlkPTQyODU4"
     },
     {
-      "src": "/carousal/card/2-tonari_no_totoro.jpg",
+      "src": "./carousal/card/2-tonari_no_totoro.jpg",
       "alt": "Tonari no Totoro",
       "title": "Tonari no Totoro",
       "dubbed": true,
@@ -315,7 +315,7 @@
       "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAdrefsdsdfwerFrefdsfrersfdsrfer363435349URASDGHUSRFSJGYfdsffsderFStewthsfSFtrftesdfrdGk4bzh4ODV3LmFuZjU5OC5jb20vdXNlcjEzNDIvMDE5ZjFkZTBhMjk1ZDZlOWQ5MTU1NDJjNGE5ODQwZTYvRVAuMS52MC4xNjM5NTM3NTY2LjEwODBwLm1wND90b2tlbj1wZ0FPaWNzY1BEbUNmY2ZyNDN2bXh3JmV4cGlyZXM9MTcyMjQ4NDA3MSZpZD0xNjQzNTI="
     },
     {
-      "src": "/carousal/card/3-mononoke_hime.jpg",
+      "src": "./carousal/card/3-mononoke_hime.jpg",
       "alt": "Mononoke Hime",
       "title": "Mononoke Hime",
       "dubbed": true,
@@ -332,7 +332,7 @@
       "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtert8AdrefsdsdfwerFrefdsfrersfdsrfer363435340ZG50eWMybWYwLmFuZjU5OC5jb20vdXNlcjEzNDIvNjQzMGNlNjJmZWNiN2I5MmE1NjQ2NzQ2OGQ5MzAyY2IvRVAuMS52MS4xNjM5NjcyOTYwLjEwODBwLm1wND90b2tlbj0wLUxaOExwRDdTeFI5c3owcGthY3VRJmV4cGlyZXM9MTcyMjQ4NDA4OSZpZD05NjA2OQ=="
     },
     {
-      "src": "/carousal/card/4-kimi_no_na_wa.jpg",
+      "src": "./carousal/card/4-kimi_no_na_wa.jpg",
       "alt": "Kimi no Na wa",
       "title": "Kimi no Na wa",
       "dubbed": true,
@@ -349,7 +349,7 @@
       "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtert9AdrefsdsdfwerFrefdsfrersfdsrfer363435341cGNleWlhc2p1LmFuZjU5OC5jb20vdXNlcjEzNDIvZTllMzE1ZGMxMjM3NTk3NWMzODMzODRmN2JjNzI4ZDgvRVAuMS52MS4xNzEyODE2OTk1LjcyMHAubXA0P3Rva2VuPXdPT3IweVU1bEZXM21WY1F6MF8yTFEmZXhwaXJlcz0xNzIyNDg0MTI1JmlkPTEzMjE1NQ=="
     },
     {
-      "src": "/carousal/card/5-tenki_no_ko.jpg",
+      "src": "./carousal/card/5-tenki_no_ko.jpg",
       "alt": "Tenki no Ko",
       "title": "Tenki no Ko",
       "dubbed": true,
@@ -366,7 +366,7 @@
       "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyURASDGHUSRFSJGYfdsffsderFStewthsfSFtrfteAdrefsdsdfwerFrefdsfrersfdsrfer36343534sdf82eGM1cHBlOWVpLmFuZjU5OC5jb20vdXNlcjEzNDIvZDI1YTBiNzIxMmRmMDgyY2FiNGExNmYwZjA4ZjEyZjQvRVAuMS52MC4xNjM5MjkxMzY1LjcyMHAubXA0P3Rva2VuPTNrZmFlUV93X0U0OVhBYXAtMGlZdXcmZXhwaXJlcz0xNzIyNDg0MTU2JmlkPTE0MzI1OA=="
     },
     {
-      "src": "/carousal/card/6-spirited_away.jpg",
+      "src": "./carousal/card/6-spirited_away.jpg",
       "alt": "Spirited Away",
       "title": "Spirited Away",
       "dubbed": true,
@@ -383,7 +383,7 @@
       "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAdrefsdsdfwerFrefdsfrersfdsrfer363435349AawehyfcghysfdsDGDYdgdsfsdfwstdgdsgtertxZXc2eG8zN2JmLmFuZjU5OC5jb20vdXNlcjEzNDIvNGEyNjE1NGI4YWFmZGFkZjFkZWJjY2IzNzEwMjIxNTQvRVAuMS52MC4xNjM5Mjk5MTQ3LjEwODBwLm1wND90b2tlbj03SkN5eDllSVBRZFFBWUdOMmtVODBRJmV4cGlyZXM9MTcyMjQ4NDE3NyZpZD05MDYxMQ=="
     },
     {
-      "src": "/carousal/card/7-howls_moving_castle.jpg",
+      "src": "./carousal/card/7-howls_moving_castle.jpg",
       "alt": "Howl's Moving Castle",
       "title": "Howl's Moving Castle",
       "dubbed": true,
@@ -400,7 +400,7 @@
       "downloadLink": "https://gredirect.info/download.php?url=aHR0cHM6LyAdrefsdsdfwerFrefdsfrersfdsrfer363435349AdeqwrwedffryretgsdFrsftrsvfsfsr1cGNleWlhc2p1LmFuZjU5OC5jb20vdXNlcjEzNDIvZjY2OTIxMTNjNzc3MDQ1M2Q5MDg4Nzc3MGNhNzlhYTUvRVAuMS52MS4xNzEyNzEwMjk1LjcyMHAubXA0P3Rva2VuPXpwbWRRb1NoaTFBanZvWmlHVlcyY3cmZXhwaXJlcz0xNzIyNDg0MTk5JmlkPTEwNzAxNQ=="
     },
     {
-      "src": "/carousal/card/8-grave_of_the_fireflies.jpg",
+      "src": "./carousal/card/8-grave_of_the_fireflies.jpg",
       "alt": "Grave of the Fireflies",
       "title": "Grave of the Fireflies",
       "dubbed": true,
@@ -419,7 +419,7 @@
   ],
   "favouriteAnime": [
     {
-      "src": "/carousal/card/1-hxh.jpg",
+      "src": "./carousal/card/1-hxh.jpg",
       "alt": "Hunter x Hunter",
       "title": "Hunter x Hunter",
       "dubbed": true,
@@ -434,7 +434,7 @@
       "href": "https://anitaku.pe/category/hunter-x-hunter-dub"
     },
     {
-      "src": "/carousal/card/2-demon_slayer.jpg",
+      "src": "./carousal/card/2-demon_slayer.jpg",
       "alt": "Demon Slayer: Kimetsu no Yaiba",
       "title": "Demon Slayer: Kimetsu no Yaiba",
       "dubbed": true,
@@ -449,7 +449,7 @@
       "href": "https://anitaku.pe/category/kimetsu-no-yaiba-dub"
     },
     {
-      "src": "/carousal/card/3-slime.jpg",
+      "src": "./carousal/card/3-slime.jpg",
       "alt": "That Time I Got Reincarnated as a Slime",
       "title": "That Time I Got Reincarnated as a Slime",
       "dubbed": true,
@@ -464,7 +464,7 @@
       "href": "https://anitaku.pe/category/tensei-shitara-slime-datta-ken-dub"
     },
     {
-      "src": "/carousal/card/4-death_note.jpg",
+      "src": "./carousal/card/4-death_note.jpg",
       "alt": "Death Note",
       "title": "Death Note",
       "dubbed": true,
@@ -479,7 +479,7 @@
       "href": "https://anitaku.pe/category/death-note-dub"
     },
     {
-      "src": "/carousal/card/5-baki.jpg",
+      "src": "./carousal/card/5-baki.jpg",
       "alt": "Baki",
       "title": "Baki",
       "dubbed": true,
@@ -494,7 +494,7 @@
       "href": "https://anitaku.pe/category/baki-2018-dub"
     },
     {
-      "src": "/carousal/card/6-kengan_asura.jpg",
+      "src": "./carousal/card/6-kengan_asura.jpg",
       "alt": "Kengan Ashura",
       "title": "Kengan Ashura",
       "dubbed": true,
@@ -509,7 +509,7 @@
       "href": "https://anitaku.pe/category/kengan-ashura-dub"
     },
     {
-      "src": "/carousal/card/7-one_piece.jpg",
+      "src": "./carousal/card/7-one_piece.jpg",
       "alt": "One Piece",
       "title": "One Piece",
       "dubbed": true,
@@ -524,7 +524,7 @@
       "href": "https://anitaku.pe/category/one-piece-dub"
     },
     {
-      "src": "/carousal/card/8-kaiju_no_8.jpg",
+      "src": "./carousal/card/8-kaiju_no_8.jpg",
       "alt": "Kaiju No. 8",
       "title": "Kaiju No. 8",
       "dubbed": true,
@@ -541,27 +541,27 @@
   ],
   "bannerAnime": [
    {
-    "src": "/carousal/cover/vinland-saga.jpg",
+    "src": "./carousal/cover/vinland-saga.jpg",
     "alt": "vinland Saga Season 2",
     "href": "https://anitaku.pe/category/vinland-saga-season-2-dub"
   }, 
    {
-    "src": "/carousal/cover/solo-leveling.jpg",
+    "src": "./carousal/cover/solo-leveling.jpg",
     "alt": "Solo Leveling",
     "href": "https://anitaku.pe/category/ore-dake-level-up-na-ken-dub"
   }, 
    {
-    "src": "/carousal/cover/black-clover.jpg",
+    "src": "./carousal/cover/black-clover.jpg",
     "alt": "Black Clover",
     "href": "https://anitaku.pe/category/black-clover-tv-dub"
   }, 
    {
-    "src": "/carousal/cover/attack-on-titans.jpg",
+    "src": "./carousal/cover/attack-on-titans.jpg",
     "alt": "Attack on Titans",
     "href": "https://anitaku.pe/category/shingeki-no-kyojin-dub"
   }, 
    {
-    "src": "/carousal/cover/demon-slayer-infinity-castle.jpg",
+    "src": "./carousal/cover/demon-slayer-infinity-castle.jpg",
     "alt": "Demon Slayer: Infinity Castle Arc",
     "description": "The Infinity Castle arc sees the Demon Slayer Corps launch a final assault on Muzan Kibutsuji's shape-shifting fortress. Intense battles unfold as heroes face powerful Upper Rank demons, risking everything to end the demon threat.",
     "href": "https://anitaku.pe/category/shingeki-no-kyojin-dub"

@@ -10,7 +10,7 @@ export default function ContactInfo() {
                 <h1 className="text-3xl font-bold not-italic text-center lg:text-left lg:text-2xl group">Contact</h1>
                 <Link href="mailto:aryansoni.work@gmail.com" className="flex gap-2 items-center text-lg not-italic text-gray-200">
                     <Image
-                        src="/icons/mail.svg"
+                        src="./icons/mail.svg"
                         alt="Email icon: workavnisoni@gmail.com"
                         height={20}
                         width={20}

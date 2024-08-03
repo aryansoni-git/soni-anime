@@ -40,15 +40,15 @@ export default function Navbar() {
         <nav className="bg-[#272727] h-[10vh] fixed flex justify-between w-full z-50 lg:px-responsive-padding-x">
             {isLargeScreen &&
                 <button onClick={handleOpen} className={`${isOpen ? `bg-black` : ``} px-5 lg:px-0`}>
-                    <Icon src={!isOpen ? `/icons/menu.svg` : `/icons/close-menu.svg`} alt={`Menu Icon`} />
+                    <Icon src={!isOpen ? `./icons/menu.svg` : `./icons/close-menu.svg`} alt={`Menu Icon`} />
                 </button>}
             <MenuList isLargeScreen={isLargeScreen} isOpen={isOpen} />
             <Link href={`/`} className="lg:-order-1 self-center">
-                <Icon src={`/icons/logo.svg`} alt={`Logo Icon`} addClassName={`hover:scale-110`}
+                <Icon src={`./icons/logo.svg`} alt={`Logo Icon`} addClassName={`hover:scale-110`}
                 />
             </Link>
             <Link href={`/contact`}>
-                <Icon src={`/icons/hello.svg`} alt={`Say Hello Icon`} addClassName={`hover:scale-150 h-full mr-5 lg:mr-0`}
+                <Icon src={`./icons/hello.svg`} alt={`Say Hello Icon`} addClassName={`hover:scale-150 h-full mr-5 lg:mr-0`}
                 />
             </Link>
         </nav>
