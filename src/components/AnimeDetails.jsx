@@ -7,9 +7,9 @@ export default function AnimeDetails({ src, alt, tags, description, href, addCla
             <Image 
                 src={src} 
                 alt={alt} 
-                height={120} 
-                width={120} 
-                className="h-auto w-auto" />
+                height={100} 
+                width={100} 
+                className="h-auto w-auto max-h-32" />
             <div className="hidden sm:flex gap-3 ">
                 {tags.map((tag, index) => (
                     <span key={index} className={`border-2 rounded-lg font-medium text-xs px-2 py-1 xs:text-sm xs:px-3 xs:py-2 ${addClassName}`}>{tag}</span>

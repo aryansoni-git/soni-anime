@@ -9,7 +9,7 @@ export const metadata = {
   title: "sonianime",
   description: "Watch free animes",
   icons: {
-    icon: '/icons/logo.svg',
+    icon: './icons/logo.svg',
   } 
 };
 

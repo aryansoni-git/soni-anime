@@ -34,11 +34,11 @@ export default function HeroSection({ anime }) {
                 {coverList.map((cover, index) => (
                     <SwiperSlide key={index}>
                         <div className="relative h-full w-full flex justify-center items-end pb-12 sm:items-center sm:justify-normal">
-                            <Image 
+                            {!isScreenSmall && <Image 
                                 src={`/shadow.png`} 
                                 alt='shadow' 
                                 fill 
-                                className='opacity-95 z-10' />
+                                className='opacity-95 z-10' />}
                             <Image
                                 src={!isScreenSmall ? cover.src : cover.srcMobile}
                                 alt={cover.alt}

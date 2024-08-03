@@ -5,6 +5,7 @@ import { useState } from "react";
 import PlayButton from "./PlayButton";
 import useScreenSize from "./useScreenSize";
 import HoveredAnimeCard from "./HoveredAnimeCard";
+import { textShortner } from "./HoveredAnimeCard";
 
 export default function AnimeCard({ anime, isSmall }) {
     const isScreenSmall = useScreenSize(640);
@@ -27,7 +28,7 @@ export default function AnimeCard({ anime, isSmall }) {
                         className="object-cover h-full w-full relative apsect-[9/16]"
                     />
                 </div>
-                <h4 className="text-xs xs:text-sm sm:text-base h-10">{anime.title}</h4>
+                <h4 className="text-xs xs:text-sm sm:text-base h-10">{isScreenSmall ? textShortner(anime.title, 7, 30) : textShortner(anime.title, 7, 70)}</h4>
                 <div className="flex gap-1 text-xs">
                     <span>Sub</span>
                     <span>{anime.dubbed ? '| Dub' : ''}</span>

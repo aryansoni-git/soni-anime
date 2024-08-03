@@ -47,7 +47,7 @@ export default function Navbar() {
                 <Icon src={`./icons/logo.svg`} alt={`Logo Icon`} addClassName={`hover:scale-110`}
                 />
             </Link>
-            <Link href={`/contact`}>
+            <Link href={`/contact`} target="_blank" rel="noopener" >
                 <Icon src={`./icons/hello.svg`} alt={`Say Hello Icon`} addClassName={`hover:scale-150 h-full mr-5 lg:mr-0`}
                 />
             </Link>

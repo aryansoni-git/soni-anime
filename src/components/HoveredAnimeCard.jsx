@@ -5,9 +5,9 @@ import { Icon } from "./Navbar";
 import { useMemo } from "react";
 import useScreenSize from "./useScreenSize";
 
-function textShortner(description) {
+export function textShortner(description, limit, upto) {
     if (!description) return '';
-    return description.split(' ').length > 30 ? description.slice(0, 160) + `...` : description ;   
+    return description.split(' ').length > limit ? description.slice(0, upto) + `...` : description;
 }
 
 export default function HoveredAnimeCard({ anime = {}, isHovered }) {
@@ -24,7 +24,7 @@ export default function HoveredAnimeCard({ anime = {}, isHovered }) {
                 <span className="text-slate-200">{anime.seasonsNum} Season</span>
                 <span className="text-slate-200">{anime.episodesNum} Episodes</span>
                 <span>Status: {anime.animeStatus}</span>
-                <p>{textShortner(anime.description)}</p>
+                <p>{textShortner(anime.description, 30, 160)}</p>
                 <div className="flex gap-5 h-full">
                     <Icon
                         src={`./icons/play-2.svg`}
