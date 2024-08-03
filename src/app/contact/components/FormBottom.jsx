@@ -8,7 +8,6 @@ export default function FormBottom() {
                     name="source" 
                     required 
                     className="flex flex-col p-2 bg-[#272727]"
-                    value={''}
                     >
                     <option value="" disabled>Select</option>
                     <option value="Instagram">Instagram</option>

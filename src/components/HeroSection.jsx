@@ -35,7 +35,7 @@ export default function HeroSection({ anime }) {
                     <SwiperSlide key={index}>
                         <div className="relative h-full w-full flex justify-center items-end pb-12 sm:items-center sm:justify-normal">
                             {!isScreenSmall && <Image 
-                                src={`./shadow.png`} 
+                                src={`./shadow-1.png`} 
                                 alt='shadow' 
                                 fill 
                                 className='opacity-95 z-10' />}
