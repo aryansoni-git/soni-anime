@@ -6,7 +6,7 @@ export default function PlayButton({ href, text, addClassName, isMovie, value })
         <Link
             href={href}
             target="_blank" rel="noopener"
-            className={`bg-warm-orange font-medium flex justify-center items-center gap-2 py-2 z-50 hover:scale-105 ${addClassName}`}>
+            className={`bg-warm-orange font-medium flex justify-center items-center gap-2 py-2 hover:scale-105 ${addClassName}`}>
             <Image
                 src={isMovie ? './icons/download.svg' : `./icons/play.svg`}
                 alt="play button"

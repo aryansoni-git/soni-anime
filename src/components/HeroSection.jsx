@@ -34,7 +34,8 @@ export default function HeroSection({ anime }) {
                 {coverList.map((cover, index) => (
                     <SwiperSlide key={index}>
                         <div className="relative h-full w-full flex justify-center items-end pb-12 sm:items-center sm:justify-normal">
-                            {!isScreenSmall && <Image 
+                            {!isScreenSmall && 
+                            <Image 
                                 src={`./shadow-1.png`} 
                                 alt='shadow' 
                                 fill 

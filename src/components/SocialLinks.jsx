@@ -3,7 +3,7 @@ import { Icon } from "./Navbar";
 
 export default function SocialLinks() {
     return (
-        <div className="flex items-center gap-3 justify-start sm:justify-center">
+        <div className="flex items-center gap-3 justify-center">
             <Link href="https://www.instagram.com/aryansoni.ig/" target="_blank">
                 <Icon
                     src="./icons/instagram-svg.svg"
