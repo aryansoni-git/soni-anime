@@ -4,7 +4,7 @@ Soni-Anime is a cutting-edge anime website developed using Next.js 14 and Tailwi
 
 ![cover](/public/soni-anime-cover.png)
 
-You can try the game live [here](https://aryansoni-git.github.io/sonianime/)!
+You can try the game live [here](https://soni-anime.vercel.app/)!
 
 ## Table of Contents
 
