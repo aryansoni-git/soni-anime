@@ -55,7 +55,7 @@ export default function Navbar() {
     const handleOpen = () => { setIsOpen(!isOpen) };
 
     return (
-        <nav className="bg-[#272727] h-[10vh] fixed flex justify-between w-full z-50 lg:px-responsive-padding-x">
+        <nav className="bg-[#272727] h-[10vh] fixed flex justify-between w-full z-[9999] lg:px-responsive-padding-x">
             {isLargeScreen &&
                 <button
                     onClick={handleOpen}
