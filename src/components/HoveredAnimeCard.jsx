@@ -13,7 +13,7 @@ export function textShortner(description, limit, upto) {
 export default function HoveredAnimeCard({ anime = {}, isHovered }) {
     const isScreenSmall = useScreenSize(640);
 
-    const hoveredStyles = useMemo(() => `absolute top-0 flex flex-col gap-2 text-sm bg-[#272727] p-5 opacity-95 z-50 ${(anime.isMovie ? 'h-[92%] w-full' : 'h-full w-full')}`, [anime.isMovie])
+    const hoveredStyles = useMemo(() => `absolute top-0 flex flex-col gap-2 text-sm bg-[#272727] p-5 opacity-95 z-40 ${(anime.isMovie ? 'h-[92%] w-full' : 'h-full w-full')}`, [anime.isMovie])
 
     return (
         (!isScreenSmall && isHovered) &&
