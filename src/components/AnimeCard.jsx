@@ -25,6 +25,7 @@ export default function AnimeCard({ anime, isSmall }) {
                         alt={anime.alt}
                         height={1000}
                         width={1000}
+                        loading="lazy"
                         className="object-cover h-full w-full relative apsect-[9/16]"
                     />
                 </div>

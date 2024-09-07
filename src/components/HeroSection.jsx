@@ -38,7 +38,8 @@ export default function HeroSection({ anime }) {
                             <Image 
                                 src={`./shadow-1.png`} 
                                 alt='shadow' 
-                                fill 
+                                fill
+                                priority
                                 className='opacity-95 z-10' />}
                             <Image
                                 src={!isScreenSmall ? cover.src : cover.srcMobile}

@@ -39,7 +39,11 @@ export default function Banner({ anime, isLast }) {
                         <p className={paraStyles}>Still looking for something to watch?</p>
                         <p className={paraStyles}>Check out our full library</p>
                     </div>
-                    <Link href={`https://anitaku.pe/home.html`} className="border-[0.5px] border-warm-orange px-5 py-2 hover:bg-warm-orange cursor-pointer sm:px-6 sm:py-3 sm:text-lg">VIEW ALL</Link>
+                    <Link
+                        href={`https://anitaku.pe/home.html`}
+                        className="border-[0.5px] border-warm-orange px-5 py-2 hover:bg-warm-orange cursor-pointer sm:px-6 sm:py-3 sm:text-lg"
+                    >VIEW ALL
+                    </Link>
                 </div>)
                 : ''}
         </section>

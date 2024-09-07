@@ -22,7 +22,13 @@ export default function SectionContainer({ heading, tagline, animeData, reverseD
                     loop={true}
                     slidesPerView={1}
                     spaceBetween={30}
-                    autoplay={{ delay: delay, disableOnInteraction: false, reverseDirection: reverseDirection }}
+                    autoplay={
+                        {
+                            delay: delay,
+                            disableOnInteraction: false,
+                            reverseDirection: reverseDirection
+                        }
+                    }
                     modules={[FreeMode, Autoplay]}
 
                     breakpoints={{

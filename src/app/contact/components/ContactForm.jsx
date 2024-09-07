@@ -2,6 +2,7 @@ import FormTop from "./FormTop";
 import FormBottom from "./FormBottom";
 
 export default function ContactForm() {
+
     return (
         <form
             action="https://api.web3forms.com/submit"
@@ -12,7 +13,8 @@ export default function ContactForm() {
             <input
                 type="hidden"
                 name="apikey"
-                value="bcf9ec72-5796-49f0-afc0-df409b4c0726">
+                value={process.env.WEB3FORMS_API_KEY}
+            >
             </input>
             <h1 className="text-center text-2xl font-bold mb-4 mt-2 group-hover:text-warm-orange">GET IN TOUCH</h1>
             <FormTop />
