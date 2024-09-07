@@ -1,10 +1,6 @@
 # sonianime (˶˃ᆺ˂˶)
 
-## Description
-
-Sonianime is a modern update of an older anime site, demonstrating advanced front-end development skills using React, Next.js, Tailwind CSS, and Swiper.js. This project features a responsive design, seamless navigation, and an enhanced user experience with interactive elements and a clean layout. Sonianime is designed to provide anime enthusiasts with an enjoyable browsing and downloading experience on any device.
-
-## Demo
+Soni-Anime is a cutting-edge anime website developed using Next.js 14 and Tailwind CSS, offering seamless anime movie downloads and a fully responsive design for a smooth user experience across all devices. The project is deployed on Vercel and features an interactive contact form powered by Web3Forms API.
 
 ![cover](/public/soni-anime-cover.png)
 
@@ -12,76 +8,123 @@ You can try the game live [here](https://aryansoni-git.github.io/sonianime/)!
 
 ## Table of Contents
 
-## Table of Contents
-- [Demo](#demo)
-- [Key Features](#key-features)
-- [Tech Used](#tech-used)
-- [Why It's Special](#why-its-special)
-- [How to Use](#how-to-use)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+## 🗂️ Table of Contents
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Installation Guide](#️-installation-guide)
+- [Environment Variables](#-environment-variables)
+- [Deployment](#-deployment)
+- [Contributing](#️-contributing)
+- [Contact Information](#-contact)
+- [License](#-license)
 
-## Key Features
+## ✨ Features
+- **Next.js 14**: Fast, SEO-friendly React framework.
+- **Anime Movie Downloads**: One-click downloads for your favorite anime movies.
+- **Responsive Design**: Ensures a consistent user experience across desktops, tablets, and mobile devices.
+- **Contact Form**: Integrated with Web3Forms API for secure and serverless form submissions.
+- **Tailwind CSS**: Easy-to-maintain, utility-first styling for a clean UI.
+- **Vercel Deployment**: Continuous integration and deployment with Vercel, ensuring fast performance.
+- **Animations & Hover Effects**: Interactive animations for better user engagement.
 
-- Works well on all device sizes (phones, tablets, computers)
-- Download anime movies easily with one click
-- Easy to use and navigate
-- Cool effects when you hover over anime cards to see more details
-- Clean layout with nice colors
-- Uses the brand's colors with a simple design
-- Has a contact page to get in touch with the developer
+## 🛠 Tech Stack
+- **Next.js 14**: For rendering and routing, enabling fast performance and SEO optimization.
+- **React.js**: Component-based structure for building the dynamic interface.
+- **Tailwind CSS**: Responsive and utility-first styling for a modern UI.
+- **Web3Forms API**: Serverless solution for handling form submissions.
+- **Vercel**: Platform for frontend deployment and hosting.
+- **PostCSS & ESLint**: Code quality and pre-processing tools for optimized styling and linting.
 
-## Tech Used
-
-- React
-- Next.js
-- Tailwind CSS
-- Swiper.js
-
-## Why It's Special
-
-This project shows the developer's skills in:
-
-- Using modern web technologies
-- Understanding how to make websites look good and work well (UI/UX design)
-
-It's a big improvement over the old site, which was made with just HTML, CSS, and JavaScript and didn't work well on different screen sizes.
-
-## How to Use
-1. Navigate through different sections to explore anime collections.
-2. Hover over anime cards to see more details.
-3. Use the contact page to get in touch with the developer.
-
-## Installation
-
-There's no need for installation. Simply download or clone the repository to your local machine and open the `index.html` file in a web browser.
-
-```bash
-
-git clone https://github.com/aryansoni-git/sonianime
-
+## 📁 Project Structure
 ```
-## Navigate to the project directory:
+src/
+ └── app/
+     ├── contact/
+     │   ├── components/
+     │   │   ├── ContactForm.jsx
+     │   │   ├── ContactInfo.jsx
+     │   │   ├── FormBottom.jsx
+     │   │   ├── FormTop.jsx
+     │   ├── page.jsx
+     ├── components/
+     │   ├── AnimeCard.jsx
+     │   ├── AnimeDetails.jsx
+     │   ├── Banner.jsx
+     │   ├── Footer.jsx
+     │   ├── HeroSection.jsx
+     │   ├── HoveredAnimeCard.jsx
+     │   ├── MainSection.jsx
+     │   ├── Navbar.jsx
+     │   ├── PlayButton.jsx
+     │   ├── SectionContainer.jsx
+     │   ├── SocialLinks.jsx
+     │   ├── useScreenSize.jsx
+     ├── layout.js
+     ├── page.js
+ └── data/
+     ├── animeData.json
+```
 
+This project follows a clean and organized structure:
+
+- **Contact Components**: All form-related components are housed in `/app/contact/`.
+- **Reusable UI Components**: Modular components like AnimeCard, Navbar, and Footer are in `/components/`.
+- **Anime Data**: Static data for anime listings is kept in `/data/animeData.json` for quick retrieval.
+
+## 🛠️ Installation Guide
+
+### Step 1: Clone the Repository
 ```bash
-
+git clone https://github.com/aryansoni-git/sonianime.git
 cd sonianime
-
 ```
 
-## Contributing
+### Step 2: Install Dependencies
+```bash
+npm install
+```
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+### Step 3: Run the Development Server
+```bash
+npm run dev
+```
+Go to http://localhost:3000 to view the app.
+
+### Step 4: Build for Production
+```bash
+npm run build
+```
+
+### Step 5: Deploy on Vercel
+```bash
+vercel deploy
+```
+
+## 🛠 Environment Variables
+To connect Web3Forms API and other services, configure the `.env.local` file:
+
+```makefile
+NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY=<your_web3forms_access_key>
+```
+
+## 🚀 Deployment
+Soni-Anime is deployed on Vercel, leveraging its fast deployment pipeline, caching, and automatic scaling. You can deploy your own fork by connecting the repository to Vercel.
+
+```bash
+vercel deploy
+```
+
+## 🖇️ Contributing
+Contributions are welcome! Follow the steps below to contribute:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/new-feature`).
-6. Create a new Pull Request.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add a new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a Pull Request.
+
+For large features, please open an issue to discuss the feature first.
 
 ## Contact
 
@@ -91,13 +134,14 @@ If you have any questions or suggestions regarding this project, feel free to co
 | --- | --- |
 | Email | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="50" height="50">](mailto:aryansoni.work@gmail.com) |
 | GitHub | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50">](https://github.com/aryansoni-git) |
-| Twitter | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="50" height="50">](https://twitter.com/aryansoni_x) |
 | LinkedIn | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50">](https://www.linkedin.com/in/aryansoni-work) |
-| Instagram | [aryansoni.ig](https://www.instagram.com/aryansoni.ig/) |
+| Instagram | [nocs_developer](https://www.instagram.com/nocs_developer/) |
 
 ## Acknowledgements
 - Special thanks to Google Inter fonts.
 
-## License
+## 📝 License
+This project is licensed under the MIT License. You can freely use, modify, and distribute this code under the terms of the license.
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+## ⭐ Want to Support?
+If you find this project helpful, please consider giving it a star on GitHub to help it grow!
