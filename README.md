@@ -6,7 +6,7 @@ Sonianime is a modern update of an older anime site, demonstrating advanced fron
 
 ## Demo
 
-![cover](/public/cover.png)
+![cover](/public/soni-anime-cover.png)
 
 You can try the game live [here](https://aryansoni-git.github.io/sonianime/)!
 
